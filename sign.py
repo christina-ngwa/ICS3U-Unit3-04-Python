@@ -16,12 +16,12 @@ def main():
     if num > 0:
         # output
         print("")
-        print("The sign of this integer is positive.")
+        print("The sign of this integer is positive (+).")
         # output
     elif num < 0:
         # output
         print("")
-        print("The sign of this integer is negative.")
+        print("The sign of this integer is negative (-).")
     else:
         # output
         print("")
