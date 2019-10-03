@@ -2,10 +2,7 @@
 
 # Created by: Christina Ngwa
 # Created on: October 2019
-# this program checks the sign of an integer
-
-
-import random
+# This program checks the sign of an integer
 
 
 def main():
@@ -20,10 +17,13 @@ def main():
         # output
         print("")
         print("The sign of this integer is positive.")
+        # output
     elif num < 0:
+        # output
         print("")
         print("The sign of this integer is negative.")
     else:
+        # output
         print("")
         print("0")
 
